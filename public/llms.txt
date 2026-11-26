@@ -1,0 +1,16 @@
+# Armatür Rehberi
+
+> Armatür Rehberi; lavabo, banyo ve mutfak bataryaları, musluklar ve duş ürünleri seçimi için bağımsız editör ekibi tarafından hazırlanan satın alma rehberleri yayınlar. Her rehber ölçü, bağlantı, montaj ve kullanım kriterlerini adım adım anlatır.
+
+## Batarya ve Musluklar
+
+- [Banyo Bataryası Nasıl Seçilir? Satın Alma Rehberi](https://armaturrehberi.com/yazi/banyo-bataryasi-nasil-secilir-satin-alma-rehberi): Banyo bataryası seçerken termostatik/mekanik ayrımı, duvar bağlantısı, çıkış ucu, kartuş ve kaplamaya bakın. Creavit Stark, Flow, Alfa, Lua modelleriyle anlattık.
+- [Lavabo Bataryası Nasıl Seçilir? Satın Alma Rehberi](https://armaturrehberi.com/yazi/lavabo-bataryasi-nasil-secilir-satin-alma-rehberi): Lavabo bataryasında çıkış ucu yüksekliği, gaga uzunluğu, debi, kartuş ve renk nasıl seçilir? Creavit Vasa, Flow, Stark, Slope ve fotoselli modellerle anlattık.
+- [Mutfak Bataryası Nasıl Seçilir? Satın Alma Rehberi](https://armaturrehberi.com/yazi/mutfak-bataryasi-nasil-secilir-satin-alma-rehberi): Mutfak bataryası seçerken ağız tipi, eviye ve dolap ölçüsü, pencere önü, arıtma çıkışı ve kartuşa bakın. Creavit Stark, Avangart, Alfa ve spiralli modellerle.
+- [Musluk ve Ara Musluk Nasıl Seçilir? Satın Alma Rehberi](https://armaturrehberi.com/yazi/musluk-nasil-secilir-satin-alma-rehberi): Ara musluk, ara kesme valfi ve musluk seçerken ölçüye (1/2-3/8, 1/2-1/2, 3/4), filtreye, montaja ve renge bakın. Creavit modelleriyle adım adım anlattık.
+
+## Duş Ürünleri
+
+- [Duş Seti Nasıl Seçilir? Satın Alma Rehberi](https://armaturrehberi.com/yazi/dus-seti-nasil-secilir-satin-alma-rehberi): Duş seti seçerken sürgülü bar ya da askı, fonksiyon sayısı, başlık şekli, kireç önleme ve renge bakın. Creavit Aria, mafsallı ve kireç kırıcılı setlerle anlattık.
+- [Duş Sistemi Nasıl Seçilir? Satın Alma Rehberi](https://armaturrehberi.com/yazi/dus-sistemi-nasil-secilir-satin-alma-rehberi): Duş sistemi seçerken bataryalı ya da bataryasız kolon, termostatik kontrol, montaj yüksekliği, su çıkışları ve kireçe bakın. Creavit Luma, Kolon, Rin ve Nua ile.
+- [Duş Başlığı Nasıl Seçilir? Satın Alma Rehberi](https://armaturrehberi.com/yazi/dus-basligi-nasil-secilir-satin-alma-rehberi): Tepe duşu başlığı seçerken boyut, şekil, ankastre ya da dirsekli bağlantı, paslanmaz slim gövde ve kireç önlemeye bakın. Creavit tepe duşu başlıklarıyla anlattık.
